@@ -1,0 +1,18 @@
+{
+  "name": "Bharti Pawar",
+  "current_company" : "Apprely Technologies",
+  "role": "Software Developer",
+  "summary": "I build reliable, scalable web apps.",
+  "address": "Pune, India",
+  "phone": "+91 9255185255",
+  "email": "bhartipawar277@gmail.com",
+  "gender": "Female",
+  "avatar": "/avatar.jpeg",
+  "links": {
+    "github": "https://github.com/Bharti-Pawar",
+    "linkedin": "https://www.linkedin.com/in/bharti-pawar",
+    "twitter": "https://twitter.com/bharti-pawar?t=uh9WtHBxnV4iKxfz-mLOng&s=09/",
+    "reddit": "https://www.reddit.com/u/bharti-pawar/s/zyM59SDOjK"
+  }
+} 
+

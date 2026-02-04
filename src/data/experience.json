@@ -1,0 +1,43 @@
+[
+  {
+    "company": "Apprely Technologies",
+    "role": "Software Developer",
+    "start": "2024-09",
+    "end": "Present",
+    "location": "Pune",
+    "summary": "Full-stack development specializing in automation testing, scalable platforms, and backend optimization.",
+    "highlights": [
+      "Developed Animal Part Tracking Utility for Branson Lab client: full-stack platform with Canvas trajectory visualization, ID correction tools (swap/link/delete/break), and PostgreSQL optimization (40% faster queries).",
+      "Developed and maintained production-grade platforms including HR Portal, Timerely (Timesheet System), APT Tool, and Prosyms Dashboard, handling complex business workflows, role-based access, and data lifecycle management."
+    ],
+    "tech": ["React.js","Next.js","React-Admin","React-Native","Django","FastAPI","PostgreSQL","Firebase","Docker"]
+  },
+  {
+    "company": "Apprely Technologies",
+    "role": "Software Developer Intern",
+    "start": "2024-02",
+    "end": "2024-05",
+    "location": "Pune",
+    "summary": "Designed and deployed Responsive React.js applications. ",
+    "highlights": [
+      "Developed a real-time weather application using OpenWeatherMap API with geolocation and manual search support.Displayed comprehensive weather metrics including temperature, humidity, wind speed, pressure, sunrise/sunset, and conditions.",
+      "Implemented hourly, 5-day, and 30-day forecasts with dynamic icons and descriptions. Added recent-search history for improved usability and faster access."
+    ],
+    "tech": ["React.js", "JavaScript (ES6+)", "OpenWeatherMap API"]
+
+  },
+  {
+    "company": "IIT Bombay",
+    "role": "SDE Intern",
+    "start": "2023-05",
+    "end": "2023-10",
+    "location": "Mumbai",
+    "summary": "Built a Time-Series Traffic Forecasting System using LSTM Neural Networks to predict future traffic patterns from historical data.",
+    "highlights": [
+      "Designed data preprocessing pipelines including datetime normalization, resampling, and sequence generation for supervised learning.",
+      "Trained and evaluated models using sequential and random data splits, comparing performance via RMSE and loss trends.",
+      "Implemented single-step and multi-step forecasting with visualizations for model interpretation." 
+    ],
+    "tech": ["Python", "PyTorch", "LSTM", "GNN concepts", "Pandas", "NumPy", "Time-Series Forecasting"]
+  }
+] 

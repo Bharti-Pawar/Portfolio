@@ -1,0 +1,82 @@
+[
+  {
+    "id": "portfolio",
+    "title": "Personal Portfolio",
+    "purpose": "Portfolio",
+    "description": "Responsive developer portfolio built using React, Vite, TypeScript, and Tailwind CSS.",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "animal-part-tracking",
+    "title": "Animal Part Tracking Utility",
+    "purpose": "Visualize and correct animal tracking data",
+    "description": "Full-stack tracking platform for Branson Lab to visualize, audit, and correct animal trajectories with canvas-based tools, undo/redo, and TRK/HDF5 export.",
+    "tags": ["Next.js", "JavaScript", "Tailwind", "shadcn/ui", "Zustand", "Django", "PostgreSQL", "Docker", "Canvas"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "prosyms",
+    "title": "Vendor & Client Management Dashboard",
+    "purpose": "Manage vendors, clients, and enquiries",
+    "description": "Admin and vendor dashboards with full CRUD, enquiry workflows, approvals, and role-based resource management.",
+    "tags": ["React-Admin", "TypeScript", "PostgreSQL", "Docker"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "zoom-monday-integration",
+    "title": "Zoom & Monday.com Integration",
+    "purpose": "Automate meeting data workflows",
+    "description": "Automated syncing of Zoom meeting data to Monday.com with AI-generated summaries, action items, and structured board updates.",
+    "tags": ["Zoom API", "Monday.com API", "Node.js", "JavaScript", "GROQ"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "timerely",
+    "title": "Timerely – Timesheet Management System",
+    "purpose": "Track employee work hours",
+    "description": "Enterprise timesheet platform with time logging, approvals, task assignment, team management, and weekly reporting.",
+    "tags": ["React.js", "JavaScript", "Django", "PostgreSQL"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "apprely-hr-portal",
+    "title": "AppRely HR Portal",
+    "purpose": "Applicant tracking system",
+    "description": "HR management portal with job posting, applicant lifecycle tracking, role-based actions, and responsive dashboards.",
+    "tags": ["React.js", "JavaScript", "Firebase"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "weather-app",
+    "title": "Weather Forecast Application",
+    "purpose": "Real-time weather insights",
+    "description": "Weather app with geolocation, detailed forecasts, dynamic visuals, and recent search history using OpenWeatherMap API.",
+    "tags": ["React.js", "JavaScript", "OpenWeatherMap API"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  },
+  {
+    "id": "traffic-forecasting",
+    "title": "Traffic Forecasting using LSTM",
+    "purpose": "Predict traffic patterns",
+    "description": "Time-series traffic forecasting system using LSTM with preprocessing pipelines, model evaluation, and multi-step predictions.",
+    "tags": ["Python", "PyTorch", "LSTM", "Pandas", "NumPy", "Time-Series"],
+    "links": {
+      "github": "https://github.com/Bharti-Pawar"
+    }
+  }
+]
