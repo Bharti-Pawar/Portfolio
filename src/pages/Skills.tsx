@@ -1,7 +1,7 @@
 /* eslint-disable react/react-in-jsx-scope */
 import { motion } from 'framer-motion'
 import { FaReact,FaPython } from "react-icons/fa"
-import { SiPostgresql, SiMysql,SiFastapi,SiJavascript} from "react-icons/si"
+import { SiMysql,SiJavascript} from "react-icons/si"
 import { RiNextjsLine,RiTailwindCssFill} from "react-icons/ri";
 import { DiDjango } from "react-icons/di";
 const fadeUp = {
