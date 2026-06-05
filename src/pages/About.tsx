@@ -33,7 +33,7 @@ export default function About() {
           {/* About Content */}
           <div className="space-y-4">
             <p className="text-neutral-300 leading-relaxed text-justify">
-            Experienced software engineer with 2+ years in React, Next.js, Django and PostgreSQL. Proven ability to deliver scalable web applications,fintech platforms,API integrations,and responsive design,role-based access control,real-time systems, and automation workflows in production environments and collaborating with cross-functional teams.
+            Experienced software engineer with 2+ years in React, Next.js, Django and PostgreSQL. Proven ability to deliver scalable web applications, fintech platforms, API integrations and responsive design, role-based access control,real-time systems and automation workflows in production environments and collaborating with cross-functional teams.
             </p>
             
             {/* Key Highlights */}
